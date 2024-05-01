@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kirk J-Son Matic 👋</h1>
-<h3 align="center">Prospective UI/UX and Graphics Designer. Front-End Development Enthusiast, Driven to craft user-focused digital encounters Skilled in HTML, CSS, JavaScript, Figma, Adobe Photoshop. Actively seeking chances to elevate my skill set.</h3>
+<h3 align="center">A seasoned designer specializing in UI/UX, graphic design, frontend development, and web design. With 2 years of experience in freelancing, I'm passionate about crafting compelling digital experiences that blend form with function. Whether it's designing intuitive user interfaces, creating captivating visuals, coding responsive websites, or bridging the gap between design and development, I thrive on bringing ideas to life and exceeding expectations. Let's collaborate and transform your vision into reality!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirkmatic&label=Profile%20views&color=0e75b6&style=flat" alt="kirkmatic" /> </p>
 
