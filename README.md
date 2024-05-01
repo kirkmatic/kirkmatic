@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kirk J-Son Matic</h1>
+<h1 align="center">Hi, I'm Kirk J-Son Matic 👋</h1>
 <h3 align="center">Prospective UI/UX and Graphics Designer. Front-End Development Enthusiast, Driven to craft user-focused digital encounters Skilled in HTML, CSS, JavaScript, Figma, Adobe Photoshop. Actively seeking chances to elevate my skill set.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirkmatic&label=Profile%20views&color=0e75b6&style=flat" alt="kirkmatic" /> </p>
