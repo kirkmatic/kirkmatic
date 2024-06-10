@@ -101,9 +101,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/kirkmatic/kirkmatic/output/snake.svg" alt="Snake animation" />
-
-###
