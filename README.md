@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">A versatile freelance designer and developer specializing in UI/UX, graphic design, frontend development, web design, and game development. With over 2 years of experience, I'm dedicated to creating engaging digital experiences that seamlessly blend aesthetics with functionality. Whether it's designing intuitive user interfaces, crafting captivating visuals, developing responsive websites, or creating immersive game environments, I'm passionate about turning ideas into reality. Let's collaborate and bring your vision to life!</p>
+<p align="left">A versatile freelance designer and developer specializing in UI/UX, graphic design, frontend development, web design, and game development. I'm dedicated to creating engaging digital experiences that seamlessly blend aesthetics with functionality. Whether it's designing intuitive user interfaces, crafting captivating visuals, developing responsive websites, or creating immersive game environments, I'm passionate about turning ideas into reality. Let's collaborate and bring your vision to life!</p>
 
 ###
 
