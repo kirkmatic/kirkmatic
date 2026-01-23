@@ -2,7 +2,7 @@
 
 <p align="left"><strong>I'm Kirk J-Son Matic</strong></p>
 
-<p align="center">
+<p align="justified">
 I’m a passionate web developer and designer who loves building visually appealing, user-centered, and responsive web applications.
 I focus on creating clean interfaces and smooth user experiences by combining modern front-end technologies with thoughtful UI/UX design principles.
 </p>
